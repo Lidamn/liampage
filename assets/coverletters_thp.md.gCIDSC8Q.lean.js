@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.CVrB3l4w.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"coverletters/thp.md","filePath":"coverletters/thp.md"}'),a={name:"coverletters/thp.md"};function o(s,c,n,p,_,d){return t(),r("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};
