@@ -27,7 +27,7 @@ next:
 
 <div class="resume-wrapper">
   <iframe 
-      src="/liampage/resume.pdf#zoom=fitH" 
+      src="/liampage/#zoom=fitH" 
       type="application/pdf" 
       width="100%" 
       height="1200" 
